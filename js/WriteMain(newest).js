@@ -1,4 +1,4 @@
-/**
+/***
  * ============================================
  * AI Writing Editor - Main JavaScript
  * Assignment 1: Frontend Integration & Client-Side CRUD
